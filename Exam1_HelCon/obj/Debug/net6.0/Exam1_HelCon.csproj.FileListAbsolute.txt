@@ -1,0 +1,15 @@
+F:\GIT\Exam\Exam1_HelCon\bin\Debug\net6.0\Exam1_HelCon.exe
+F:\GIT\Exam\Exam1_HelCon\bin\Debug\net6.0\Exam1_HelCon.deps.json
+F:\GIT\Exam\Exam1_HelCon\bin\Debug\net6.0\Exam1_HelCon.runtimeconfig.json
+F:\GIT\Exam\Exam1_HelCon\bin\Debug\net6.0\Exam1_HelCon.dll
+F:\GIT\Exam\Exam1_HelCon\bin\Debug\net6.0\Exam1_HelCon.pdb
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.csproj.AssemblyReference.cache
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.AssemblyInfoInputs.cache
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.AssemblyInfo.cs
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.csproj.CoreCompileInputs.cache
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.dll
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\refint\Exam1_HelCon.dll
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.pdb
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\Exam1_HelCon.genruntimeconfig.cache
+F:\GIT\Exam\Exam1_HelCon\obj\Debug\net6.0\ref\Exam1_HelCon.dll
